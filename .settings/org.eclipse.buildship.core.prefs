@@ -1,0 +1,8 @@
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(5.6.2))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=C\:/All/Gradle/gradle-5.6.2-bin/gradle-5.6.2/bin
+offline.mode=false
+override.workspace.settings=true
